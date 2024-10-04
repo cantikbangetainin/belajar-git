@@ -1,2 +1,3 @@
 # belajar-git
-Belajar Git
+
+Reposetory ini adalah repository untuk belajar Git. 
